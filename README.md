@@ -1,8 +1,8 @@
-# ✈️ British Airways Review Dashboard (Tableau Project)
+# ✈️ British Airways Review Dashboard
 
 This interactive Tableau dashboard explores customer reviews for British Airways, providing insights into passenger experiences across various service metrics such as seat comfort, food, entertainment, and ground service.
 
-### 📊 Key Highlights:
+### 📊 Some Key Highlights:
 - **Dynamic Metric Selection**: Switch between various rating aspects (e.g., Seat Comfort, Food, Entertainment) using a custom selector.
 - **Time-Based Trends**: Visualize how average ratings have changed over time.
 - **Geographical Analysis**: View average ratings by country and rating count by region.
